@@ -1,25 +1,6 @@
----
-title: Sentiment Analysis On Encrypted Data Using Fully Homomorphic Encryption
-emoji: 🥷💬
-colorFrom: yellow
-colorTo: yellow
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: true
-tags:
-  [
-    FHE,
-    PPML,
-    privacy,
-    privacy preserving machine learning,
-    homomorphic encryption,
-    security,
-  ]
-python_version: 3.10.11
----
-
 # Sentiment Analysis With FHE
+
+Sentiment Analysis On Encrypted Data Using Fully Homomorphic Encryption
 
 ## Set up the app locally
 
